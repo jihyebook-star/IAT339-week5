@@ -1,4 +1,4 @@
 # IAT339
 References:
 GitKraken documentation
-Course materials
+Course materials. Focus in class!
